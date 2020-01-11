@@ -17,6 +17,28 @@ img {
   
 }
 
+body {
+    background-color: #fafafa;
+}
+
+.info {
+    position: relative;
+    top: 130px;
+    left: 10px;
+}
+
+ ul {
+     list-style: none;
+ }
+
+.info li {
+    width: 500px;
+    padding: 30px 10px 30px 10px;
+    border: 1px solid black;
+    font-weight: 700;
+    font-size: 18px;
+}
+
 .about h1, p {
   position: relative;
   left: 50px;
@@ -54,24 +76,7 @@ img {
   margin: 10px;
 }
 
-.hardware {
-  display: inline-block;
-  position: relative;
-  width: 740px;
-  height: 450px;
-  background-color: #fafafa;
-  color:#6393f7;
-}
 
-.software {
-  position: relative;
-  width: 740px;
-  height: 450px;
-  background-color:#6393f7;
-  color: #FFF;
-  float: right;
-  
-}
 
 .more h1, .more h4, .more a {
   position:absolute;

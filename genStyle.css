@@ -26,7 +26,7 @@ a {
   width: 250px;
 }
 
-ul {
+header ul, footer ul {
   margin: 30px auto;
   text-align: right;
 }
@@ -36,7 +36,7 @@ header ul {
   top: -60px;
 }
 
-li {
+header li, footer li {
   color: black;
   font-size: 20px;
   display: inline-block;
@@ -47,6 +47,7 @@ li {
 li:hover {
   color: #6393f7;
 }
+
 
 .shift {
   position: relative;
