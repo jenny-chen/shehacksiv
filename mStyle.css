@@ -34,21 +34,22 @@ body {
 .info li {
     width: 500px;
     padding: 30px 10px 30px 10px;
-    border: 1px solid black;
+    border: 1px solid grey;
     font-weight: 400;
     font-size: 14px;
 }
 
 .border {
-    border: 1px solid black;
+    border: 1px solid grey;
+    width: 600px;
+    height: 150px;
 }
 
-#purchase {
-    position: relative;
-    padding: 30px 10px 30px 10px;
-    height: 100px; 
-    width: 60px;
+.border p ,.border a {
+    padding: 10px 10px 30px 10px;
 }
+
+
 
 strong {
     font-size: 18px;
@@ -59,9 +60,8 @@ display: inline-block;
 position: relative;
 width: 740px;
 height: 450px;
-background-color: #fafafa;
-
 }
+
 
 .right {
 position: relative;
@@ -69,5 +69,17 @@ width: 740px;
 height: 450px;
 float: right;
 }
+/*
+#purchase {
+    position: relative;
+    display: inline block;
+    padding: 30px 10px 30px 10px;
+    height: 100px; 
+    width: 60px;
+}
 
+#purchase p{
+    position: relative;
+    text-align: 100px;
+}*/
 
