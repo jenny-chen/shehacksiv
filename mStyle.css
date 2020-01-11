@@ -43,9 +43,8 @@ body {
     border: 1px solid black;
 }
 
-#purchase p{
+#purchase {
     position: relative;
-
     padding: 30px 10px 30px 10px;
     height: 100px; 
     width: 60px;
