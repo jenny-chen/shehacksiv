@@ -21,7 +21,7 @@ body {
     background-color: #fafafa;
 }
 
-.info {
+.shift {
     position: relative;
     top: 130px;
     left: 10px;
@@ -35,9 +35,15 @@ body {
     width: 500px;
     padding: 30px 10px 30px 10px;
     border: 1px solid black;
-    font-weight: 700;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+
+strong {
     font-size: 18px;
 }
+
 
 .about h1, p {
   position: relative;
