@@ -1,0 +1,22 @@
+{
+  "name": "shehacksiv",
+  "version": "1.0.0",
+  "description": "Repo for our SheHacks IV project. new change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenny-chen/shehacksiv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenny-chen/shehacksiv/issues"
+  },
+  "homepage": "https://github.com/jenny-chen/shehacksiv#readme",
+  "dependencies": {
+    "sendbird": "^3.0.116"
+  }
+}
